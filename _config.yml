@@ -25,10 +25,11 @@ description: Website for projects based on Human-Computer Interaction
 navbar-links:
   About Me: "aboutme"
   Resources:
+    - Class Site: "https://sites.google.com/williams.edu/csci376-2018"
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  Author's home: "mc-mejia.giithub.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -73,14 +74,12 @@ author:
 social-network-links:
   rss: true
   email: "mcm4@williams.edu"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+  github: mc-mejia
+  twitter: mcmejia15
 
 # Select which share links to show in posts
 share-links-active:
   twitter: false
-  facebook: false
   google: false
   linkedin: false
 
