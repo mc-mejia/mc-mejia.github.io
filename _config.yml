@@ -24,9 +24,8 @@ description: Website for projects based on Human-Computer Interaction
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Assignments:
-    -Good Design: "good-design"
-    -Bad Design: "bad-design"
+  Good Design: "gooddesign"
+  Bad Design: "baddesign"
   Resources:
     - Class Site: "https://sites.google.com/williams.edu/csci376-2018"
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
