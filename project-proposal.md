@@ -9,6 +9,6 @@ An art professor can constantly appeal to their student’s imagination, but the
  
  ![A viewfinder from Blick art supplies](mc-mejia.github.io/img/view-finder.png)
  
-A viewfinder from Blick art supplies (a grid should be visualized within the center square)
+A viewfinder from the Blick art supplies website (a grid should be visualized within the center square).
 
 
