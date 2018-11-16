@@ -29,6 +29,7 @@ navbar-links:
     - Good Design: "gooddesign"
     - Bad Design: "baddesign"
     - Project Proposal: "project-proposal"
+    - HCI Research: "hci-research"
   My Resources:
     - Class Site: "https://sites.google.com/williams.edu/csci376-2018"
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
