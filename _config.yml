@@ -23,7 +23,7 @@ description: Website for projects based on Human-Computer Interaction
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  InterprArt: "http://mc-mejia.github.io/HCIGroupProject/"
   # add page for class assignments
   Assignments:
     - Good Design: "gooddesign"
